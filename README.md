@@ -1,4 +1,4 @@
-# Inoxoft-Bootcamp-Numeric1-Project
+# Youtube Trends Inoxoft-Bootcamp-Project
 Pet-project, developed during Inoxoft Data-Focused Programming Bootcamp 2021 <br /> <br />
 
 
