@@ -19,7 +19,7 @@ Currently, the first one contains data from 10 Regions/Countries scrapped from G
 
 1) What makes a Youtube video (or/and channel) more popular when compared to others?
 2) Do there exists any underlying factors which affect the popularity of a video (or/and channel) on Youtube?
-3) Could we, and if so, how adjust the video parameters to make it more popular?
+3) Could we, and if so, how adjust the video parameters to make it more popular?<br /> <br />
 
 Wish us the best of luck on our journey! <br /> <br />
 
