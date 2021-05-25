@@ -1,0 +1,4 @@
+*.py linguist-detectable=true
+*.ipynb linguist-detectable=true
+*.Dockerfile linguist-detectable=false
+*.sh linguist-detectable=false
