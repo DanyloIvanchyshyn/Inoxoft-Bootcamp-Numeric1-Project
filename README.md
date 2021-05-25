@@ -34,7 +34,7 @@ In alphabetical order:
 
 ### Project structure
 
-### Install
+#### Install
 
 docker files for various use cases:
 
@@ -44,7 +44,7 @@ docker files for various use cases:
 
 To build images you can run scripts in `./utils`
 
-### Data
+#### Data
 
 Data downloaders, athena queries etc..
 To run docker shell you can use scripts in `./utils`
@@ -53,7 +53,7 @@ To run docker shell you can use scripts in `./utils`
 python -i data/url_to_category/download_tools.py
 ```
 
-### Train
+#### Train
 
 Model examples for training (and exporting models)
 To run docker jupyter-notebook you can use scripts in `./utils`
@@ -71,21 +71,21 @@ python train/example_AUTO.py
 
 NOTE: it'll be useful to keep track of system resources while training, try `nvidia-smi` for GPU, `nload` for network, and `htop` for CPU.
 
-### Deploy
+#### Deploy
 
 a home for deployable models and test scripts
 
-### Utils
+#### Utils
 
 General purpose scripts (running a shell inside docker quickly etc...)
 
-#### Mac/Linux
+##### Mac/Linux
 
 - To build a docker image: `source utils/builddocker.sh minimal.Dockerfile`
 - To run shell of a docker image: `source utils/runshell.sh`
 - To run jupyter-notebook of a docker image: `source utils/runnotebook.sh`
 
-#### Windows
+##### Windows
 
 using powershell
 
