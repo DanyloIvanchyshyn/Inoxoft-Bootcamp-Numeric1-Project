@@ -2,3 +2,4 @@
 *.ipynb linguist-detectable=true
 *.Dockerfile linguist-detectable=false
 *.sh linguist-detectable=false
+*.ps1 linguist-detectable=false
