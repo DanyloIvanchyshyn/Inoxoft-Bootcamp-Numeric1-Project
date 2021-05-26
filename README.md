@@ -30,7 +30,7 @@ In alphabetical order:
 
 - [Danylo Ivanchyshyn](https://github.com/DanyloIvanchyshyn)
 - [Elena Matusova](https://github.com/ElenaMatusova)
-- [Volodymyr Zalevskyi](https://github.com/zalevskyi) </br> </br>
+- [Volodymyr Zalevskyi](https://github.com/zalevskyi) </br>
 
 ### Project structure
 
