@@ -1,4 +1,4 @@
-# Youtube Trends Inoxoft-Bootcamp-Project
+# Youtube Trends Analytics Inoxoft-Bootcamp-Project
 
 Pet-project, developed during [Inoxoft](https://inoxoft.com/) [Data-Focused Programming Bootcamp](https://inoxoft.com/course/data-focused-programming/) [2021](https://dou.ua/calendar/37008/)
 
