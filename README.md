@@ -51,7 +51,7 @@ To run docker shell you can use scripts in `./utils`
 
 ```
 python -i data/url_to_category/download_tools.py
-``` </br>
+```
 
 #### Train
 
