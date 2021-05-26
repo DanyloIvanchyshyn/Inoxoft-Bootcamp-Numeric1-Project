@@ -50,8 +50,8 @@ Data downloaders, athena queries etc..
 To run docker shell you can use scripts in `./utils`
 
 ```
-python -i data/url_to_category/download_tools.py </br>
-```
+python -i data/url_to_category/download_tools.py
+``` </br>
 
 #### Train
 
