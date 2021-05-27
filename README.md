@@ -1,13 +1,13 @@
 # Youtube Trends Analytics Inoxoft-Bootcamp-Project
 
-Pet-project, developed during [Inoxoft](https://inoxoft.com/) [Data-Focused Programming Bootcamp](https://inoxoft.com/course/data-focused-programming/) [2021](https://dou.ua/calendar/37008/) </br> </br>
+Pet-project developed during [Inoxoft](https://inoxoft.com/) [Data-Focused Programming Bootcamp](https://inoxoft.com/course/data-focused-programming/) [2021](https://dou.ua/calendar/37008/) </br> </br>
 
 ## Project description </br>
 
 ### Project tasks:
 
 1. What makes a Youtube video (or/and channel) more popular when compared to others?
-2. Do there exists any underlying factors which affect the popularity of a video (or/and channel) on Youtube?
+2. Do there exist any underlying factors which affect the popularity of a video (or/and channel) on Youtube?
 3. Could we, and if so, how adjust the video parameters to make it more popular?
 
 Wish us the best of luck on our journey! </br>
